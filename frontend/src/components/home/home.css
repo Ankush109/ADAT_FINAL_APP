@@ -1,0 +1,238 @@
+.banner{
+    background-image: url(https://media.wired.com/photos/5c9040ee4950d24718d6da99/16:9/w_2400,h_1350,c_limit/shoppingcart-1066110386.jpg);
+    height:130vh;
+    width: 100%;
+   display: flex;
+   flex-direction: column;
+    align-items:baseline ;
+    justify-content: center;
+  color: rgb(173, 11, 11);
+
+}
+input {
+    background-color: transparent;
+    border: 0px none;
+    height: 20px;
+    width: 160px;
+    color: black;
+    padding-left: 35px;
+}
+.banner >h1{
+padding-left: 350px;
+width: 10vw;
+font-size: 100px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.banner > p{
+    font:300 1.4vmax "Lucide Sans";
+    padding-left: 300px;
+    font-size: 30px;
+}
+.banner > a > button{
+    margin-top: 30px;
+    margin-left: 30vmax;
+    cursor:pointer;
+    background-color: rgb(179, 35, 35);
+    border: 1px solid rgb(255, 220, 145);
+    border-radius: 0;
+    padding:1vmax;
+    transition: all 0.5;
+    width: 9vmax;
+    font:600 1.5vmax "Roboto";
+    color: white;
+}
+.banner > a > button:hover{
+    background-color:black;
+    color:white;
+}
+
+.homeheading{
+    text-align: center;
+    font-family: Roboto;
+    font-size: 2vmax;
+    border-bottom: 1px solid rgba(220, 97, 97, 0.5);
+    width: 20vmax;
+    padding:1vmax;
+    margin:5vmax auto
+}
+.container{
+    display: flex;
+    margin: 2vmax auto;
+    width: 80vw;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 100%;
+    background-color: rgb(221, 218, 218);
+}
+.productcard{
+    width: 14vmax;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: rgb(48,48,48);
+    margin: 2vmax;
+    transition: all 0.5s;
+    padding-bottom: 0.5vmax;
+}
+.productcard >img {
+    width: 14vmax;
+
+}
+.productcard > div{
+    margin: 0.5vmax;
+    display: flex;
+    justify-content: flex-start;
+
+}
+.productcard > div >span{
+    margin: 0.5vmax;
+    font:300 0.7vmax "Roboto"
+}
+.productcard >p {
+    font-family: "Roboto";
+    font-size: 1.2vmax;
+    margin: 1vmax 0.5vmax;
+
+    margin-bottom: 0;
+}
+.productcard >span{
+    margin:0.5vmax 0.5vmax;
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1vmax;
+}
+.productcard:hover{
+    box-shadow: 0 0 5px rgb(168, 168, 168);
+    transform: translateY(-1vmax);
+
+}
+@media screen and (max-width: 700px) {
+    .banner{
+        background-image: url(https://media.wired.com/photos/5c9040ee4950d24718d6da99/16:9/w_2400,h_1350,c_limit/shoppingcart-1066110386.jpg);
+        height:100vh;
+        width: 100vw;
+       display: flex;
+       flex-direction: column;
+        align-items:baseline ;
+        justify-content: center;
+      color: rgb(173, 11, 11);
+    
+    }
+    input {
+        background-color: transparent;
+        border: 0px none;
+        height: 20px;
+        width: 160px;
+        color: black;
+        padding-left: 35px;
+    }
+    .banner >h1{
+    padding-left: 150px;
+    width: 10vw;
+    font-size: 100px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .banner > p{
+        font:300 1.4vmax "Lucide Sans";
+        padding-left: 150px;
+        font-size: 30px;
+        
+        padding-right: 150px;
+
+    }
+    .banner > a > button{
+        margin-top: 30px;
+        margin-left: 35vmax;
+        cursor:pointer;
+        background-color: rgb(179, 35, 35);
+        border: 1px solid rgb(255, 220, 145);
+        border-radius: 0;
+        
+        transition: all 0.5;
+        width: 30vmax;
+        height: 10vmin;
+        font:500 3vmax "Roboto";
+        color: white;
+    }
+    .banner > a > button:hover{
+        background-color:rgb(194, 69, 69);
+        color:white
+    }
+    
+    .homeheading{
+        text-align: center;
+        font-family: Roboto;
+        font-size: 1.4vmax;
+        border-bottom: 1px solid rgba(220, 97, 97, 0.5);
+        width: 20vmax;
+        padding:1vmax;
+        margin:5vmax auto
+    }
+    .container{
+        display: flex;
+        margin: 2vmax auto;
+        width: 80vw;
+        flex-wrap: wrap;
+        justify-content: center;
+        max-width: 100%;
+    }
+    .productcard{
+        width: 14vmax;
+        display: flex;
+        flex-direction: column;
+        text-decoration: none;
+        color: rgb(48,48,48);
+        margin: 2vmax;
+        transition: all 0.5s;
+        padding-bottom: 0.5vmax;
+    }
+    .productcard >img {
+        width: 14vmax;
+    
+    }
+    .productcard > div{
+        margin: 0.5vmax;
+        display: flex;
+        justify-content: flex-start;
+    
+    }
+    .productcard > div >span{
+        margin: 0.5vmax;
+        font:300 0.7vmax "Roboto"
+    }
+    .productcard >p {
+        font-family: "Roboto";
+        font-size: 1.2vmax;
+        margin: 1vmax 0.5vmax;
+    
+        margin-bottom: 0;
+    }
+    .productcard >span{
+        margin:0.5vmax 0.5vmax;
+        color: red;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 1vmax;
+    }
+    .productcard:hover{
+        box-shadow: 0 0 5px gray;
+        transform: translateY(-1vmax);
+    
+    }
+    .productcard > p {
+      font-size: 1.7vmax;
+    }
+  
+    .productcard > div {
+      margin: 0vmax;
+      display: block;
+    }
+  
+    .productcard > span {
+      font-size: 1.5vmax;
+    }
+  
+    .productcard > div > span {
+      margin: 0 0.5vmax;
+      font: 300 1vmax "Roboto";
+    }
+  }
