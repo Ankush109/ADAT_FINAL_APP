@@ -1,7 +1,6 @@
-# Talk-A-Tive
+# ADAT
 
-Devchat is a Full Stack Chatting App.
-Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
+ADAT is a Full Stack Ecommerce APP
 
 ## Tech Stack
 
@@ -13,15 +12,15 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 ## Demo
 
-https://devchatt.herokuapp.com/
-![](https://github.com/Ankush109/MERN_stack_chatapp/blob/main/screenshots/lifedemo.jpeg)
+https://adat.herokuapp.com/
+![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/mainp.jpeg)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/Ankush109/MERN_stack_chatapp.git
+  git clone https://github.com/Ankush109/ADAT_FINAL_APP.git
 ```
 
 Go to the project directory
@@ -39,12 +38,13 @@ Install dependencies
 ```bash
   cd frontend/
   npm install
+  npm start
 ```
 
 Start the server
 
 ```bash
-  npm run start
+  node backend/server.js
 ```
 
 Start the Client
@@ -60,6 +60,7 @@ Start the Client
 ### Home page
 
 ![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/mainp.jpeg)
+![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/adatsignup.jpeg)
 ![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/adatlogin.jpeg)
 
 ### Products page
@@ -89,6 +90,26 @@ Start the Client
 ### Admin Panel(only those who are admin can access and use these features)
 
 ![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/admin.jpeg)
+
+### Add products
+
+![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/addproducts.jpeg)
+
+### See all users who have been registered
+
+![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/users.jpeg)
+
+### See all products created till now , you can even delete any product
+
+![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/productsad.jpeg)
+
+### See all orders which have been placed by users
+
+![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/orderadm.jpeg)
+
+### See reviews of any product by giving the product ID and you can even delete it
+
+![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/r.jpeg)
 
 ## Made By
 
