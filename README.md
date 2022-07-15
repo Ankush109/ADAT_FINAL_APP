@@ -66,25 +66,29 @@ Start the Client
 
 ![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/productsp.jpeg)
 
-### One to One chat
+### My cart
 
-![](https://github.com/Ankush109/MERN_stack_chatapp/blob/main/screenshots/homepage.jpeg)
+![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/cart.jpeg)
 
-### Search Users
+### Write review and add rating
 
-![](https://github.com/Ankush109/MERN_stack_chatapp/blob/main/screenshots/searchusers.jpeg)
+![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/writereview.jpeg)
 
-### Create Group Chats
+### Add address
 
-### Notifications
+![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/confirmaddress.jpeg)
 
-![](https://github.com/Ankush109/MERN_stack_chatapp/blob/main/screenshots/notification.jpeg)
+### Shipping info
 
-### Add or Remove users from group
+![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/shippinginfo.jpeg)
 
-![](https://github.com/Ankush109/MERN_stack_chatapp/blob/main/screenshots/grou%3Bp.jpeg)
+### review orders
 
-### View Other user Profile
+![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/userorder.jpeg)
+
+### Admin Panel(only those who are admin can access and use these features)
+
+![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/admin.jpeg)
 
 ## Made By
 
