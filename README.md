@@ -60,11 +60,11 @@ Start the Client
 ### Home page
 
 ![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/mainp.jpeg)
-![](https://github.com/Ankush109/MERN_stack_chatapp/blob/main/screenshots/signuppage.jpeg)
+![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/adatlogin.jpeg)
 
-### Real Time Chatting with Typing indicators
+### Products page
 
-![](https://github.com/Ankush109/MERN_stack_chatapp/blob/main/screenshots/typing.jpeg)
+![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/productsp.jpeg)
 
 ### One to One chat
 
