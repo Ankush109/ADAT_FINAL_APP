@@ -87,6 +87,14 @@ Start the Client
 
 ![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/userorder.jpeg)
 
+### Update profile
+
+![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/update%20profile.jpeg)
+
+### My profile
+
+![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/myprofile.jpeg)
+
 ### Admin Panel(only those who are admin can access and use these features)
 
 ![](https://github.com/Ankush109/ADAT_FINAL_APP/blob/main/screenshots/admin.jpeg)
